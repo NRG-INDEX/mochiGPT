@@ -42,7 +42,7 @@
     "dotenv": "^16.0.3",
     "gpt3-tokenizer": "^1.1.4",
     "lodash": "^4.17.21",
-    "mongodb": "^5.0.1",
+    "mongodb": "^5.1.0",
     "openai": "^3.1.0",
     "pinecone-client": "^1.0.1",
     "pm2": "^5.2.2",
